@@ -14,8 +14,8 @@ A modernized Slot Machine Proof of Concept (POC) for Android, featuring smooth a
 - **Robustness**: Type-safe interactions with View Binding.
 
 ## 🎨 Visuals
-### UI Concept
-![Premium Concept](.gemini/antigravity/brain/aeb719f5-e47e-4a80-be0a-8de064e91cb9/slot_machine_premium_ui_1767443003883.png)
+### App icon
+![App icon](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 ## 🛠️ Technology Stack
 - **Language**: Kotlin 2.0.21
