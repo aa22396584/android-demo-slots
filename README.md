@@ -8,6 +8,8 @@ https://github.com/aa22396584/android-demo-slots
 [Codeberg](https://codeberg.org/ImL1s/android-demo-slots)
 
 
+> **Why this GitHub home?** Public development moved here from [`ImL1s/android-demo-slots`](https://github.com/ImL1s/android-demo-slots) because that GitHub account is currently restricted (anonymous visitors get 404 on the profile and many assets). This is the same project. Please open Issues and Pull Requests here.
+
 A modernized Slot Machine Proof of Concept (POC) for Android, featuring smooth animations, sound effects, and the latest Android development standards.
 
 ## ✨ Features
