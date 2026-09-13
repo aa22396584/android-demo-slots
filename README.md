@@ -1,8 +1,11 @@
 # Android Slot Machine POC
 
-> **Development home:** https://github.com/ImL1s/android-demo-slots  
-> Please open issues and pull requests there.  
-> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/android-demo-slots) · [GitLab](https://gitlab.com/aa22396584/android-demo-slots)
+**Development, Issues & Pull Requests:**  
+https://github.com/aa22396584/android-demo-slots
+
+**Mirrors:**  
+[GitLab](https://gitlab.com/aa22396584/android-demo-slots) ·
+[Codeberg](https://codeberg.org/ImL1s/android-demo-slots)
 
 
 A modernized Slot Machine Proof of Concept (POC) for Android, featuring smooth animations, sound effects, and the latest Android development standards.
